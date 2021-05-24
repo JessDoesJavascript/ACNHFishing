@@ -42,8 +42,6 @@ class App extends React.Component {
         
         }
     
-    
-
     searchSubmit = (event) => {
         event.preventDefault();
         this.setState({
